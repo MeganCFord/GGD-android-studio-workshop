@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GGD</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="procedure_names">
+        <item>Chest CT</item>
+        <item>Foot Fracture Surgery</item>
+        <item>Knee Arthroscopy</item>
+        <item>Nasal Septum Repair</item>
+        <item>Pacemaker Insertion</item>
+        <item>Sleep Study</item>
+        <item>Tonsillectomy</item>
+        <item>Total Knee Replacement</item>
+    </string-array>
+</resources>
